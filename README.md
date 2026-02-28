@@ -1,7 +1,5 @@
 # Multi-College-SaaS-Platform
 
-# Multi-College SaaS Platform
-
 A cloud-based platform designed to support multiple colleges on a single scalable system.  
 Each college acts as a separate tenant with its own users, data, and configurations.
 
